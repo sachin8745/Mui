@@ -16,10 +16,8 @@
 span{
     text-align: right;
     display: block;
-    &::before{
-        content:'By : ';
         color:red;
-    }
+    
     color:white;
 }
 h1{
